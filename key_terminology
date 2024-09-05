@@ -1,0 +1,38 @@
+## Glossary of Terms
+**Key Terminology**
+
+**Cloud Computing** 
+Cloud computing enables computer users to access tools and resources stored elsewhere via the Internet. This is different than traditional computing, in which resources are stored locally, on one or more computers, that might require users to be in a specific place to access and use resources. 
+
+**Edge Computing**
+Edge computing is a relatively new computing method that is similar to cloud computing, but different in a few important ways. With edge computing, some data processing can be done locally, only sending data through the cloud when necessary. This makes keeping information stored on the local computer private, as it does not require all data to travel through the cloud. Edge computing is common in Internet of Things (IOT) applications. 
+
+**Internet of Things (IOT)**
+Internet of Things, or IOT, describes many devices, large and small, that can connect to the Internet and communicate with each other. For example, a common IOT application is when a person uses a wallet app on their phone to pay to enter a bus or subway.
+
+**Data**
+Data is a collection of factual information, such as measurements, statistics, or a paragraph of text. Data is used by both computers and humans to understand various phenomena or ask questions.
+
+**Computer Program or Code**
+A computer program, often referred to as computer code or simply code, is a set of instructions and behaviors written by a human (or a machine) that enables communication with computers in order to accomplish a goal or set of tasks. There are many general programming languages that can be used for a variety of things, as well as languages that are tailored to specific tasks, such as designing artificial intelligence (AI).
+
+**Programming**
+Programming is writing computer code for any task or purpose. The code a programmer writes is called software.
+
+**Software**
+Software is a set of instructions, tasks, or behaviors that run on computers. Software can be as simple as one line of code or as complex as an app, which often contain thousands of lines of code.
+
+**Hardware**
+In computing, hardware is a term that describes any machine capable of running software. Smartphones, laptops, servers, and many fitness trackers are examples of hardware.
+
+**Sensor**
+A sensor is a device that gathers information. For example, a photosensor (or light sensor) is a sensor that turns the energy of light into electrical energy. The data a sensor collects can then interpreted by software, analyzed, and sent to an output device such as a light, a computer display, or a motor.
+
+**Free and Open Source Software (FOSS)**
+Software that is free to use, altered, and distribute. It is different than closed source or proprietary software, which can only be used with a license and cannot be altered or distributed.
+
+**IDE (Integrated Development Environment)**
+An IDE, or Integrated Development Environment, is a tool that helps programmers write computer code efficiently. IDEs typically have specific tools that make writing code easier and faster, as well as tools that help make sure there are no errors in the code. 
+
+**Sensor Array**
+A sensor array is a collection of sensors, usually housed or installed near each other, that, when used together, provide humans with a better understanding of phenomena or behavior than they might get from one single sensor. 
