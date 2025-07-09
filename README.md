@@ -2,11 +2,11 @@
 
 ## **Artificial Intelligence for Real-Time Edge Computing and Sensing**
 
-How can scientists track the progress of ecological phenomena, such as wildfires, in real-time in order to better understand the phenomena, aid rapid-response teams, and inform impacted communities?
+• How can scientists track the progress of ecological phenomena, such as wildfires, in real-time in order to better understand the phenomena, aid rapid-response teams, and inform impacted communities?
 
-Given a network of nodes, each consisting of a small footprint computer capable of leveraging AI models, connected to instruments such as infrared cameras, RGB cameras, LIDAR, and traditional sensors for air quality and wind, what can we learn about through sustained observation of ecological systems, agriculture, urban environments, and weather-related hazards?
+• Given a network of nodes, each consisting of a small footprint computer capable of leveraging AI models, connected to instruments such as infrared cameras, RGB cameras, LIDAR, and traditional sensors for air quality and wind, what can we learn about through sustained observation of ecological systems, agriculture, urban environments, and weather-related hazards?
 
-What applications of AI can be used to study urban, rural, and remote natural areas?
+• What applications of AI can be used to study urban, rural, and remote natural areas?
 
 The Sage Grande Testbed (SGT) is building a cutting-edge artificial intelligence (AI) cyberinfrastructure to support advanced AI research.
 
