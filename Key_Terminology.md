@@ -1,6 +1,6 @@
 ## **Key Terminology**
 
-**Cloud Computing** 
+**Cloud Computing**   
 Cloud computing enables computer users to access tools and resources stored elsewhere via the Internet. This is different from traditional computing, in which resources are stored locally, on one or more computers, that might require users to be in a specific place to access and use resources. 
 
 **Computer Program or Code**
