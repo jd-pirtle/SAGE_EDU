@@ -26,4 +26,6 @@ The Sage team will also extend the current educational curriculum used in Chicag
 
 Instructions for working with older developer kits can be found [here](https://github.com/waggle-sensor/node-platforms/tree/main/nvidia_jetson).
 
-### The following are set-up instructions and an `ansible` playbook for the NVIDIA Jetson Node Platform.
+### Curriculum
+[Essential Questions and Big Ideas](./questions_and_ideas.md)
+[Key Terminology](./key_terminology.md)
