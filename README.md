@@ -1,6 +1,6 @@
-# **SAGE GRANDE TESTBED**
+# SAGE GRANDE TESTBED
 
-## **Artificial Intelligence for Real-Time Edge Computing and Sensing**
+## Artificial Intelligence for Real-Time Edge Computing and Sensing
 
 • How can scientists track the progress of ecological phenomena, such as wildfires, in real-time in order to better understand the phenomena, aid rapid-response teams, and inform impacted communities?
 
@@ -14,5 +14,9 @@ SGT, funded by the NSF Office of Advanced Cyberinfrastructure, provides access t
 
 By bringing advanced AI to the edge, where data is collected, full-resolution analysis, dynamic automation, and immediate actionable responses can be computed. Each Sage node includes a GPU and AI-optimized software stack connected to instruments such as infrared cameras, RGB cameras, LiDAR, and traditional sensors for air quality and wind, as well as LoRaWAN connected sensors for low-bandwidth measurements such as soil moisture. With over 100 Sage nodes deployed across 17 states, SGT provides a national-scale testbed for AI-enabled, autonomous, and rapid-response science and sustained observation of ecological systems, agriculture, urban environments, and weather-related hazards.
 
-## **EDUCATION INITIATIVE**
+## EDUCATION INITIATIVE
 The Sage team will also extend the current educational curriculum used in Chicago and will inspire young people — with an emphasis on women and underrepresented populations — to pursue science, technology, and mathematics careers by providing a platform for students to explore measurement-based science questions related to the natural and built environments.
+
+# NVIDIA Jetson Node Platform
+
+Contains set-up instructions and an `ansible` playbook for the NVIDIA Jetson Node Platform.
