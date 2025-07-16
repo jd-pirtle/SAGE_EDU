@@ -17,8 +17,10 @@ By bringing advanced AI to the edge, where data is collected, full-resolution an
 ## EDUCATION INITIATIVE
 The Sage team will also extend the current educational curriculum used in Chicago and will inspire young people — with an emphasis on women and underrepresented populations — to pursue science, technology, and mathematics careers by providing a platform for students to explore measurement-based science questions related to the natural and built environments.
 
-## NVIDIA Jetson Node Platform
+## Table of Contents   
+---
 
+### NVIDIA Jetson Node Platform  
 **PLEASE NOTE: As of mid-2025, the following instructions support the following developer kits:**
 
 [NVIDIA Jetson AGX Orin Developer Kit](https://www.seeedstudio.com/NVIDIA-Jetson-AGX-Orin-Developer-Kit-p-5314.html)   
