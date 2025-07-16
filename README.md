@@ -31,4 +31,7 @@ Instructions for working with older developer kits can be found [here](https://g
 [Essential Questions and Big Ideas](./questions_and_ideas.md)   
 [Key Terminology](./key_terminology.md)   
 
+### Setup Instructions
+1. [Hardware Needed](./hardware_needed.md)
+
 
