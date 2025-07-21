@@ -1,6 +1,6 @@
 # Initial Configuration
 
-Each developer's kit will require initial setup steps before proceeding to Sage configuration steps. These device-specific guides include initial setup tasks that are similar to the getting started steps for any new computer, and installing updates for the operating system and associated software. Follow the linked getting started guides for your developer's kit:
+Each developer kit will require initial setup steps before proceeding to Sage configuration steps. These device-specific guides include initial setup tasks that are similar to the getting started steps for any new computer, and installing updates for the operating system and associated software. Follow the linked getting started guides for your developer kit:
 
 ---
 
