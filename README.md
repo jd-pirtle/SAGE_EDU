@@ -34,5 +34,7 @@ Instructions for working with older developer kits can be found [here](https://g
 
 ### Setup Instructions
 1. [Hardware Needed](./hardware_needed.md)
+2. [Initial Configuration](./initial_configuration.md)
+3. [Installing Ansible](./installing_ansible.md)
 
 
