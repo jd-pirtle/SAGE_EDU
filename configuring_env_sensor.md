@@ -1,6 +1,5 @@
 # Configuring the BME680 Environmetal Sensor
 
----
 
 1. Connect in the 5 pin USB cable into the environmental sensor with the black wire connected to the ground pin
   <img alt='Envi Sensor Image' src='./images/envi.jpeg'></img>
