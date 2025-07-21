@@ -22,4 +22,4 @@ To build and configure a Sage node, you will first have to purchase everything n
 |1|Indoor Desktop Microphone|Indoor microphone. Configuration instructions not yet added|https://www.amazon.com/Microphone-Condenser-Indicator-Gooseneck-Recording/dp/B07N2WRHMY/
 
 
-Once you have all of these parts proceed to [Bootstrap Steps](./setup-guides/bootstrap.md)
+Once you have all of these parts proceed to [Bootstrap Steps](./initial_configuration.md)
