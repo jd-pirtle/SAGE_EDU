@@ -8,7 +8,7 @@ To build and configure a Sage node, you will first have to purchase everything n
 
 | Number Needed | Product Name | Description | Link to Purchase|
 |-|-|-|-|
-|1|NVIDIA Jetson Nano|You can purchase either the NVIDIA Jetson AGX Orin Developer Kit or the reComputer J4012|www.seeedstudio.com/NVIDIA-Jetson-AGX-Orin-Developer-Kit-p-5314.html  or   https://www.seeedstudio.com/reComputer-J4012-p-5586.html/
+|1|NVIDIA Jetson Nano|You can purchase either the NVIDIA Jetson AGX Orin Developer Kit **or** the reComputer J4012 **or** Raspberry Pi |www.seeedstudio.com/NVIDIA-Jetson-AGX-Orin-Developer-Kit-p-5314.html  or   https://www.seeedstudio.com/reComputer-J4012-p-5586.html or https://www.raspberrypi.com/
 |1|Micro SD Card OR USB stick|Increases storage beyond internal storage|
 |1|USB to Ethernet Adapter|Adds an ethernet connection|https://www.amazon.com/uni-Ethernet-Internet-Compatible-Notebook/dp/B087QFQW6F
 |1|Short Circuit Shunt (Jumper)|(reComputer only) Connects the J48 header pins to enable DC power|https://www.amazon.com/Uxcell-a13112100ux0081-2-54mm-Standard-Circuit/dp/B00HR8DGZO/
@@ -22,4 +22,4 @@ To build and configure a Sage node, you will first have to purchase everything n
 |1|Indoor Desktop Microphone|Indoor microphone. Configuration instructions not yet added|https://www.amazon.com/Microphone-Condenser-Indicator-Gooseneck-Recording/dp/B07N2WRHMY/
 
 
-Once you have all of these parts proceed to [Bootstrap Steps](./initial_configuration.md)
+Once you have all of these parts proceed to [Initial Setup Guides](./initial_configuration.md)
