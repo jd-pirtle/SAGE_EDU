@@ -23,7 +23,7 @@ The Sage team will also extend the current educational curriculum used in Chicag
 **PLEASE NOTE: As of mid-2025, the following instructions support the following developer kits:**
 
 [NVIDIA Jetson AGX Orin Developer Kit](https://www.seeedstudio.com/NVIDIA-Jetson-AGX-Orin-Developer-Kit-p-5314.html)   
-[reComputer J4012 - Edge AI Computer with NVIDIA Jetson Orin](https://www.seeedstudio.com/reComputer-J4012-p-5586.html)
+[reComputer J4012 - Edge AI Computer with NVIDIA Jetson Orin](https://www.seeedstudio.com/reComputer-J4012-p-5586.html)   
 [Raspberry Pi](https://www.raspberrypi.com)
 
 Instructions for working with older developer kits can be found [here](https://github.com/waggle-sensor/node-platforms/tree/main/nvidia_jetson).
