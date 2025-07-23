@@ -4,14 +4,18 @@
 1. Connect in the five-pin USB cable to the environmental sensor with the black wire connected to the ground pin.
   <img alt='env sensor 1' src='./images/bme680_plg_ort.jpg'></img>
 
-2. **With the device powered off**, connect the other end of the into the pins shown in the images of your specific device:    
+2. **With the device powered off**, connect the other end of the into the pins shown in the images of your specific device:
+    
  **NVIDIA Jetson AGX Orin** 
+ 
   <img alt='Pins on Board Image' src='./images/nvidia_plg_ort.jpg'></img>
   ---
- **reComputer J4012**   
+ **reComputer J4012** 
+ 
   <img alt='Pins on Board Image' src='./images/seed_plg_ort.jpg'></img>
   ---
-  **Raspberry Pi** 
+  **Raspberry Pi**
+  
   <img alt='Pins on Board Image' src='./images/pi_plg_ort.jpg'></img>
   ---
 
