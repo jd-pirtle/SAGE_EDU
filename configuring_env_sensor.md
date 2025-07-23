@@ -4,7 +4,7 @@
 1. Connect in the five-pin USB cable to the environmental sensor with the black wire connected to the ground pin.
   <img alt='env sensor 1' src='./images/bme680_plg_ort.jpg'></img>
 
-2. **With the device powered off**, connect the other end of the into the pins shown in the images of your specific device:
+2. **With the device powered off**, connect the other end of the five-pin USB cable into the pins shown in the images below of your specific device. Please make sure and take note of which color wire is connected to which pin.
     
  **NVIDIA Jetson AGX Orin** 
  
