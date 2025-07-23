@@ -2,7 +2,7 @@
 
 
 1. Connect in the 5 pin USB cable into the environmental sensor with the black wire connected to the ground pin
-  <img alt='Envi Sensor Image' src='./images/envi.jpeg'></img>
+  <img alt='env sensor 1' src='./images/bme680_plg_ort.jpg'></img>
 
 2. **With the Nano powered off**, connect the other end of the cable into the nano on the bottom leftmost set of 5 pins on the 40-pin expansion header.
 The black wire should connect to the ground pin and the red wire should connect to the pin labeled 3v3
