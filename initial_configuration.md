@@ -23,4 +23,7 @@ reComputer J4012 [getting started guide](https://wiki.seeedstudio.com/reComputer
 Raspberry Pi [getting started guide](https://www.raspberrypi.com/documentation/computers/getting-started.html).       
 
 
+
+
+
 Once you have configured your developer's kit, proceed to [Installing Ansible](./installing_ansible.md).
