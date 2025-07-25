@@ -118,5 +118,6 @@
 
 14. Reboot and on startup run steps 11 & 12 again to see if the BME680 sensor is set up on boot
 
-#### Your nano is successfully configured!
+---
+
 Continue to the [Waggle docs](https://docs.waggle-edge.ai/docs/about/overview) or the [Optional Tests to run](./test_nano.md)
