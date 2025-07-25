@@ -2,8 +2,6 @@
 
 The following will guide you through installing Ansible on your computer.
 
----
-
 **Please Note:** You do not need to install Anisble on the host computer (the node), only on the development computer (your computer).
 
 
@@ -89,7 +87,7 @@ The following will guide you through installing Ansible on your computer.
             `ansible --version`
         >Note: Every time you need to need to use a terminal for the preceding instructions open Ubuntu by visiting the Windows Start menu and typing `Ubuntu`
 
-
+---
 Once you have installed Ansible on the development computer, proceed to [Configuring Ansible](./configuring_ansible.md).
 
 
