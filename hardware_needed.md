@@ -21,5 +21,5 @@ To build and configure a Sage node, you will first have to purchase everything n
 |1|Amcrest Camera Power|Powersupply for the Amcrest camera|https://www.amazon.com/100-240V-Adapter-Switching-Cameras-5-5mmx2-1mm/dp/B07GP1DX4N?th=1
 |1|Indoor Desktop Microphone|Indoor microphone. Configuration instructions not yet added|https://www.amazon.com/Microphone-Condenser-Indicator-Gooseneck-Recording/dp/B07N2WRHMY/
 
-
+---
 Once you have all of these parts proceed to [Initial Setup Guides](./initial_configuration.md)
