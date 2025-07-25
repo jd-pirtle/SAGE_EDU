@@ -2,8 +2,6 @@
 
 To build and configure a Sage node, you will first have to purchase everything needed. This comprises your "nano kit". Your nano kit should contain all of the following products:
 
----
-
 >Note: If your personal computer only has USB-C connections then you will have to buy a USB to USB-C adapter. 
 
 | Number Needed | Product Name | Description | Link to Purchase|
