@@ -33,7 +33,8 @@ Instructions for working with older developer kits can be found [here](https://g
 2. [Initial Configuration](./initial_configuration.md)
 3. [Installing Ansible](./installing_ansible.md)
 4. [Configuring Ansible](./configuring_ansible.md)
-5. [Configuring the Environmental Sensor](./configuring_env_sensor.md)
+5. [Running the Ansible Playbook](./running_ansible.md)
+6. [Configuring the Environmental Sensor](./configuring_env_sensor.md)
 
 ### Curriculum
 [Essential Questions and Big Ideas](./questions_and_ideas.md)   
